@@ -24,7 +24,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=mpmabeyrathne&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 
-[![GitHub Game of Life](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+![GitHub Game of Life](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
 
 

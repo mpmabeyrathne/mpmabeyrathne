@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/mpmabeyrathnempmabeyrathne/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/mpmabeyrathnempmabeyrathne/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>

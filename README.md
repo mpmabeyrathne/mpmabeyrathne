@@ -7,6 +7,8 @@
 </p>
 
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
 # 💫 About Me:
 📚 Dedicated undergraduate student in Computer Science at the University of Plymouth.<br>👨🏻‍💻 Proficient web developer with a strong focus on React.<br>🧑‍🎨 Seeking internship opportunities to apply my web development skills.<br>🎓Hard-working individual committed to continuous learning and growth.<br>💻 Building interactive web applications is my expertise.<br>🌐 Experienced in front-end development and user interface design.<br>📊 Data-driven web solutions using Python and JavaScript are my forte.<br>🚀 Committed to delivering high-quality, responsive web experiences.<br>📖 Learning and coding enthusiast with a passion for technology.<br>🌟 Eager to collaborate on innovative web projects.<br>👤 A good listener who values effective communication within a team.<br>🤝 Strong team player, collaborating seamlessly to achieve project goals.
 

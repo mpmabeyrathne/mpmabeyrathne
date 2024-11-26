@@ -1,59 +1,93 @@
-# Hey, I'm Pasindu Madhuwantha  👋
+# Hey, I'm Pasindu Madhuwantha 👋
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Pasindu%20Madhuwantha&fontSize=60&fontColor=fff&animation=fadeIn" />
+</div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=1a83c9&background=EB00FF00&center=true&vCenter=true&width=250&lines=Software+Developer;React+Developer;Esport+Gamer;Cricketer;Youtuber)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&color=1A83C9&center=true&vCenter=true&width=600&lines=Software+Developer;React+Enthusiast;Full+Stack+Web+Developer;Innovative+Tech+Explorer;Problem+Solver+%26+Learner)](https://git.io/typing-svg)
 </div>
-<img src="https://github.com/mpmabeyrathne/mpmabeyrathne/blob/main/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mpmabeyrathne/count.svg" />
-</p>
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-# 💫 About Me:
-📚 Dedicated undergraduate student in Computer Science at the University of Plymouth.<br>👨🏻‍💻 Proficient web developer with a strong focus on React.<br>🧑‍🎨 Seeking internship opportunities to apply my web development skills.<br>🎓Hard-working individual committed to continuous learning and growth.<br>💻 Building interactive web applications is my expertise.<br>🌐 Experienced in front-end development and user interface design.<br>📊 Data-driven web solutions using Python and JavaScript are my forte.<br>🚀 Committed to delivering high-quality, responsive web experiences.<br>📖 Learning and coding enthusiast with a passion for technology.<br>👤 A good listener who values effective communication within a team.<br>🤝 Strong team player, collaborating seamlessly to achieve project goals.
+<div align="center">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mpmabeyrathne&label=Profile%20Views&color=blueviolet&style=for-the-badge&base=736" alt="Profile Views" />
+  </p>
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pasindu.maduwantha.3150?mibextid=D4KYlr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/___p_a_s_i_n_d_u.___?igshid=OGQ5ZDc2ODk2ZA== ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pasindu-abeyrathne-098683234/ ) 
+<br>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mpmabeyrathne&theme=ocean-gradient&hide_border=false" alt="GitHub Streak" />
+</div>
 
+## 💫 About Me
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; width: 100%;">
+  <tr>
+    <!-- About Me Section -->
+    <td style="vertical-align: top; width: 50%; border: none;">
+     <ul>
+      <li>🎓 Undergraduate in Computer Science at the University of Plymouth</li>
+      <li>💻 Full-Stack Developer specializing in Next.js, React.js, and Node.js</li>
+      <li>📱 Skilled in crafting cross-platform mobile applications with Flutter and React Native</li>
+      <li>🌐 Passionate about creating responsive, high-performance web applications</li>
+      <li>🧠 Experienced in building intelligent solutions with Python and Machine Learning</li>
+      <li>🔧 Expertise in backend development with Django and scalable API design</li>
+      <li>🌱 Constantly learning new technologies and improving my skill set</li>
+      <li>🚀 Adept at transforming ideas into real-world solutions using cutting-edge frameworks</li>
+      <li>🤝 Collaborative team player with experience in Agile development methodologies</li>
+      <li>💡 Dedicated to solving challenging problems and optimizing user experiences</li>
+      <li>🌍 Enthusiastic about building accessible, inclusive, and user-friendly applications</li>
+      <li>📊 Advocate for clean, maintainable, and efficient code practices</li>
+    </ul>
+    </td>
+    <!-- Skills Animation GIF -->
+    <td style="text-align: center; width: 50%; border: none;">
+      <div>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+        <img
+          alt="Skills Animation"
+          src="./Skills_Animation_White.gif"
+          style="max-width: 100%; height: auto; border-radius: 8px;"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
+## 🚀 Tech Arsenal
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mpmabeyrathne&theme=city_light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpmabeyrathne&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,firebase,html,css,tailwind,git,postman&perline=5" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mpmabeyrathne&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pasindu-abeyrathne-098683234/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/pasindu.maduwantha.3150"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/___p_a_s_i_n_d_u.___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mpmabeyrathne&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpmabeyrathne&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+</div>
+
+## 🏆 Achievement Showcase
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mpmabeyrathne&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 
 <div align="center">
-
-![GitHub Game of Life](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
-
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </div>
-
 

@@ -1,4 +1,4 @@
-# Hey, I'm Pasindu Madhuwantha 👋
+# ey, I'm Pasindu Madhuwantha 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Pasindu%20Madhuwantha&fontSize=60&fontColor=fff&animation=fadeIn" />

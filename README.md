@@ -30,18 +30,20 @@
     <!-- About Me Section -->
     <td style="vertical-align: top; width: 50%; border: none;">
      <ul>
-      <li>🎓 Computer Science at the University of Plymouth</li>
-      <li>💻 Full-Stack Developer specializing in Next.js, React.js, and Node.js</li>
-      <li>📱 Skilled in crafting cross-platform mobile applications with Flutter and React Native</li>
-      <li>🌐 Passionate about creating responsive, high-performance web applications</li>
-      <li>🧠 Experienced in building intelligent solutions with Python and Machine Learning</li>
-      <li>🔧 Expertise in backend development with Django and scalable API design</li>
-      <li>🌱 Constantly learning new technologies and improving my skill set</li>
-      <li>🚀 Adept at transforming ideas into real-world solutions using cutting-edge frameworks</li>
-      <li>🤝 Collaborative team player with experience in Agile development methodologies</li>
-      <li>💡 Dedicated to solving challenging problems and optimizing user experiences</li>
-      <li>🌍 Enthusiastic about building accessible, inclusive, and user-friendly applications</li>
-      <li>📊 Advocate for clean, maintainable, and efficient code practices</li>
+        <li>🎓 BSc (Hons) Computer Science — University of Plymouth, UK</li>
+        <li>💻 Software Engineer specializing in Node.js, TypeScript, React.js, and Next.js</li>
+        <li>⚙️ Experienced in building RESTful APIs, backend services, and system-to-system integrations</li>
+        <li>🗄️ Hands-on experience with PostgreSQL, MySQL, MariaDB, MongoDB, and Sequelize ORM</li>
+        <li>🔄 Experienced in large-scale data migration, ETL pipelines, data transformation, and validation</li>
+        <li>📄 Built high-volume PDF data extraction pipelines using Python and pdfplumber</li>
+        <li>🐳 Experienced with Docker, Docker Compose, GitHub Actions, Linux, Bash, and Nginx</li>
+        <li>☁️ Expanding expertise in AWS, cloud architecture, CI/CD, and DevOps practices</li>
+        <li>🌐 Experienced in developing and maintaining production web platforms for Japanese clients</li>
+        <li>🔗 Experienced in integrating third-party services through REST APIs and webhooks</li>
+        <li>🧩 Interested in scalable backend architecture, clean code, automation, and system reliability</li>
+        <li>🚀 Passionate about turning complex business requirements into practical, production-ready software</li>
+        <li>🌱 Continuously learning and strengthening my skills in cloud, DevOps, backend engineering, and system design</li>
+        <li>🤝 Comfortable collaborating with stakeholders and engineers in distributed, Agile environments</li>
     </ul>
     </td>
     <!-- Skills Animation GIF -->

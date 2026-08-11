@@ -30,7 +30,7 @@
     <!-- About Me Section -->
     <td style="vertical-align: top; width: 50%; border: none;">
      <ul>
-      <li>🎓 Undergraduate in Computer Science at the University of Plymouth</li>
+      <li>🎓 Computer Science at the University of Plymouth</li>
       <li>💻 Full-Stack Developer specializing in Next.js, React.js, and Node.js</li>
       <li>📱 Skilled in crafting cross-platform mobile applications with Flutter and React Native</li>
       <li>🌐 Passionate about creating responsive, high-performance web applications</li>

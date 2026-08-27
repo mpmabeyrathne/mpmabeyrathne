@@ -62,10 +62,9 @@
 
 ## 💫 About Me
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none; width: 100;">
+<table>
   <tr>
-
-    <td style="vertical-align: top; width: 50%; border: none;">
+    <td width="55%" valign="top">
 
       <ul>
         <li>🎓 BSc (Hons) Computer Science — University of Plymouth, UK</li>
@@ -86,28 +85,15 @@
 
     </td>
 
-    <td style="text-align: center; width: 50%; border: none;">
+    <td width="45%" align="center" valign="middle">
 
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="./Skills_Animation_Dark.gif"
-        />
-
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="./Skills_Animation_White.gif"
-        />
-
-        <img
-          src="./Skills_Animation_White.gif"
-          alt="Skills Animation"
-          style="max-width: 100%; height: auto; border-radius: 8px;"
-        />
-      </picture>
+      <img
+        src="./Skills_Animation_White.gif"
+        alt="Skills Animation"
+        width="400"
+      />
 
     </td>
-
   </tr>
 </table>
 

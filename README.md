@@ -61,7 +61,7 @@
 ---
 
 ## 💫 About Me
-
+<div>
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -96,7 +96,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 ---
 
 ## 🚀 Tech Arsenal

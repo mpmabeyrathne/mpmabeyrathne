@@ -61,42 +61,35 @@
 ---
 
 ## 💫 About Me
-<div>
+
 <table>
-  <tr>
-    <td width="55%" valign="top">
+<tr>
+<td width="55%" valign="top">
 
-      <ul>
-        <li>🎓 BSc (Hons) Computer Science — University of Plymouth, UK</li>
-        <li>💻 Software Engineer specializing in Node.js, TypeScript, React.js, and Next.js</li>
-        <li>⚙️ Experienced in building RESTful APIs, backend services, and system-to-system integrations</li>
-        <li>🗄️ Hands-on experience with PostgreSQL, MySQL, MariaDB, MongoDB, and Sequelize ORM</li>
-        <li>🔄 Experienced in large-scale data migration, ETL pipelines, data transformation, and validation</li>
-        <li>📄 Built high-volume PDF data extraction pipelines using Python and pdfplumber</li>
-        <li>🐳 Experienced with Docker, Docker Compose, GitHub Actions, Linux, Bash, and Nginx</li>
-        <li>☁️ AWS Certified Solutions Architect – Associate with hands-on cloud architecture experience</li>
-        <li>🌐 Experienced in developing and maintaining production web platforms for Japanese clients</li>
-        <li>🔗 Experienced in integrating third-party services through REST APIs and webhooks</li>
-        <li>🧩 Interested in scalable backend architecture, clean code, automation, and system reliability</li>
-        <li>🚀 Passionate about turning complex business requirements into practical, production-ready software</li>
-        <li>🌱 Continuously learning and strengthening my skills in cloud, DevOps, backend engineering, and system design</li>
-        <li>🤝 Comfortable collaborating with stakeholders and engineers in distributed, Agile environments</li>
-      </ul>
+- 🎓 BSc (Hons) Computer Science — University of Plymouth, UK
+- 💻 Software Engineer specializing in Node.js, TypeScript, React.js, and Next.js
+- ⚙️ Experienced in building RESTful APIs, backend services, and system-to-system integrations
+- 🗄️ Hands-on experience with PostgreSQL, MySQL, MariaDB, MongoDB, and Sequelize ORM
+- 🔄 Experienced in large-scale data migration, ETL pipelines, data transformation, and validation
+- 📄 Built high-volume PDF data extraction pipelines using Python and pdfplumber
+- 🐳 Experienced with Docker, Docker Compose, GitHub Actions, Linux, Bash, and Nginx
+- ☁️ AWS Certified Solutions Architect – Associate with hands-on cloud architecture experience
+- 🌐 Experienced in developing and maintaining production web platforms for Japanese clients
+- 🔗 Experienced in integrating third-party services through REST APIs and webhooks
+- 🧩 Interested in scalable backend architecture, clean code, automation, and system reliability
+- 🚀 Passionate about turning complex business requirements into practical, production-ready software
+- 🌱 Continuously learning and strengthening my skills in cloud, DevOps, backend engineering, and system design
+- 🤝 Comfortable collaborating with stakeholders and engineers in distributed, Agile environments
 
-    </td>
+</td>
+<td width="45%" align="center" valign="middle">
 
-    <td width="45%" align="center" valign="middle">
+<img src="./Skills_Animation_White.gif" alt="Skills Animation" width="400" />
 
-      <img
-        src="./Skills_Animation_White.gif"
-        alt="Skills Animation"
-        width="400"
-      />
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
-</div>
+
 ---
 
 ## 🚀 Tech Arsenal
@@ -168,38 +161,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mpmabeyrathne&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
-    height="150"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpmabeyrathne&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    height="150"
-    alt="Top Languages"
-  />
-
-</div>
-
----
-
 ## 🏆 Achievement Showcase
-
-<div align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=mpmabeyrathne&theme=radical&no-frame=false&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
-  />
-
-</div>
-
-<br>
 
 <div align="center">
 

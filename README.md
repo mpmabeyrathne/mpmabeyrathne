@@ -62,7 +62,7 @@
 
 ## 💫 About Me
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none; width: 100%;">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; width: 100;">
   <tr>
 
     <td style="vertical-align: top; width: 50%; border: none;">

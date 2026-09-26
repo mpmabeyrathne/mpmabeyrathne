@@ -1,4 +1,4 @@
-# Hey, I'm Pasindu Madhuwantha
+# Hey, I'm Pasindu Madhuwanth
 
 <div align="center">
 
